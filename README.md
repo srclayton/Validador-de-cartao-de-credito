@@ -15,7 +15,7 @@ Lista de cartões que podem ser verificados com este codigo:
 Você pode compilar a versão em **C** no site **_(onlinegdb)[https://onlinegdb.com/H1pDSZ_BD]_**
 Você pode compilar a versão em **Python** no site **_(onlinegdb)[https://onlinegdb.com/H1lnXJgjw]_**
 --------------------------------------------------------------------------------------------
-##Credit card validator
+# Credit card validator
 A script made for the purpose of studying the language, with this code you can check if a credit card number is valid or not.
 There are two versions of the code, one in C and the other in Python
 List of cards that can be verified with this code:
