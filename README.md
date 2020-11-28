@@ -1,6 +1,6 @@
 # Validador de cartão de crédito 
 Um script feito com intuito do estudo da linguagem, com este codigo você pode verificar se um numero de cartão de crédito é valido ou não.
-Há duas versões do codigo sendo uma em C e sua outra versão em Python
+Há duas versões do codigo sendo uma em **C** e sua outra versão em **Python**
 Lista de cartões que podem ser verificados com este codigo.
 -  Mastercard
 -  Aura
@@ -21,7 +21,7 @@ Você pode compilar a versão em **Python** no site **_[onlinegdb](https://onlin
 
 # Credit card validator
 A script made for the purpose of studying the language, with this code you can check if a credit card number is valid or not.
-There are two versions of the code, one in C and the other in Python
+There are two versions of the code, one in **C** and the other in **Python**
 List of cards that can be verified with this code:
 -  Mastercard
 -  Aura
