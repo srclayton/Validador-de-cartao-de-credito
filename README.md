@@ -35,6 +35,6 @@ List of cards that can be verified with this code:
 
 _You can generate credit card numbers on the website_ **_[4Devs](https://www.4devs.com.br/gerador_de_numero_cartao_credito)_**.
 
-You can compile the ** C ** version on the website **_[onlinegdb](https://onlinegdb.com/H1pDSZ_BD)_**.
+You can compile the **C** version on the website **_[onlinegdb](https://onlinegdb.com/H1pDSZ_BD)_**.
 
-You can compile the ** Python ** version on the website **_[onlinegdb](https://onlinegdb.com/H1lnXJgjw)_**.
+You can compile the **Python** version on the website **_[onlinegdb](https://onlinegdb.com/H1lnXJgjw)_**.
